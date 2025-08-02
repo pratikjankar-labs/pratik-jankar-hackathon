@@ -1,33 +1,54 @@
-# pratikjankar-interview-prep-cs
+<p align="center">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/computer-science/computer-science.png" alt="CS Foundations Portfolio Logo" width="180"/>
+</p>
 
-A **learning-first, interview-focused CS portfolio** by **Pratik Jankar**—ideal for anyone starting from scratch and preparing for FAANG or top-tier software interviews.
+# CS Foundations Portfolio
 
-This repository walks you through structured modules in **DSA → OOP/LLD → OS → DBMS → Networking → System Design**, complete with runnable code, UML diagrams, SQL tuning examples, Wireshark captures, and a Dockerized capstone project. Each module is self-contained, allowing you to clone, experiment, and learn at your own pace.
+Welcome to my CS Foundations Portfolio!
 
----
-
-## 🚀 Tech Stack & Tools
-
-| Aspect          | Tools / Languages                        |
-|-----------------|-------------------------------------------|
-| Languages       | C++, Python                               |
-| Database        | PostgreSQL, SQL scripts                   |
-| Systems & DevOps| Linux CLI, Docker, Bash scripts           |
-| Design          | UML diagrams via Draw.io or SVG           |
-| Networking      | Wireshark (`.pcap` files), Packet Tracer  |
-| Versioning      | Git, GitHub Actions CI                    |
+<p align="center">
+  <a href="https://www.linkedin.com/in/pratik-jankar/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="36" style="vertical-align:middle; margin-right: 8px;"/>
+    <span style="vertical-align:middle;">Connect on LinkedIn</span>
+  </a>
+</p>
 
 ---
 
-## 📂 Folder Structure Overview
+## Progress Overview
+- **OOP**: ✅ Completed
+- **DSA**: ⏳ In Progress (40% complete)
+- **Unix & Bash**: ⏳ To be covered
+- **DBMS**: ⏳ To be covered
+- **Operating Systems (OS)**: ⏳ To be covered
+- **Computer Networks (CN)**: ⏳ To be covered
 
-├── ds-algo/ # Data structures and algorithm practice
-├── oop-uml/ # OOP + UML labs and design patterns
-├── os/ # OS simulations: scheduling, paging, sync
-├── dbms/ # ER modeling, SQL tuning, transactions
-├── networking/ # Subnet calculators, packet captures
-├── system-design/ # Design problems with UML & trade-offs
-├── capstone/ # Dockerized full-stack mini-project
-├── docs/ # Architecture diagrams and flowcharts
-├── scripts/ # Utility scripts (backup, seed data)
-└── README.md # This file (you're here!)
+## Directory Structure
+
+| Topic                        | Status         | Directory         |
+|------------------------------|---------------|-------------------|
+| Object Oriented Programming  | Completed     | [oop/](oop/)      |
+| Data Structures & Algorithms | 40% complete  | [dsa/](dsa/)      |
+| Unix & Bash                  | Coming soon   | [unix/](unix/)    |
+| DBMS                         | Coming soon   | [dbms/](dbms/)    |
+| Operating Systems            | Coming soon   | [os/](os/)        |
+| Computer Networks            | Coming soon   | [cn/](cn/)        |
+
+---
+
+## Roadmap / Future Plans
+
+- [ ] Complete Data Structures & Algorithms (currently at 40%)
+- [ ] Add Unix & Bash section
+- [ ] Add DBMS section
+- [ ] Add Operating Systems (OS) section
+- [ ] Add Computer Networks (CN) section
+
+> **Note to Future Me:**  
+> You planned to return and finish the DSA, Unix, DBMS, OS, and CN sections.  
+> Check the Roadmap above and update your progress!
+
+---
+
+Feel free to browse each section.  
+Stay tuned as I update the repository with new topics and materials!
